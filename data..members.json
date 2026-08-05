@@ -1,0 +1,14 @@
+[
+  {
+    "id": "AMG-101",
+    "name": "Sarfraz Khan",
+    "designation": "Reporter",
+    "status": "Active"
+  },
+  {
+    "id": "AMG-102",
+    "name": "Azeem Hasham",
+    "designation": "District Reporter",
+    "status": "Active"
+  }
+]

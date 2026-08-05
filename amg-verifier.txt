@@ -1,0 +1,8 @@
+amg-verifier/
+├── data/
+│   └── members.json
+├── pages/
+│   ├── api/
+│   │   └── verify.js
+│   └── index.js
+└── package.json
